@@ -1,0 +1,23 @@
+{
+  "name": "netflix-clone-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarAmbients/netflix-like.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StarAmbients/netflix-like/issues"
+  },
+  "homepage": "https://github.com/StarAmbients/netflix-like#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
+  }
+}
